@@ -1,0 +1,15 @@
+sp|P00921|CAH2_BOVIN
+MSHHWGYGKHNGPEHWHKDFPIANGERQSPVDIDTKAVVQDPALKPLALVYGEATSRRMVNNGHSFNVEYDDSQDKAVLKDGPLTGTYRLVQFHFHWGSSDDQGSEHTVDRKKYAAELHLVHWNTKYGDFGTAAQQPDGLAVVGVFLKVGDANPALQKVLDALDSIKTKGKSTDFPNFDPGSLLPNVLDYWTYPGSLTTPPLLESVTWIVLKEPISVSSQQMLKFRTLNFNAEGEPELLMLANWRPAQPLKNRQVRGFPK
+                                    AVVQDPALKPLAL
+                                                                  NVEYDDSQDKAVLKDGPLTGTYR
+                                                                  NVEYDDSQDKAVLK
+                                                                                             HFHWGSSDDQGSEHTVDRK
+                                                                                               HWGSSDDQGSEHTVDR
+                                                                                                                 YAAELHLVHW
+                                                                                                                  AAELHLVHWNTK
+                                                                                                                               GDFGTAAQQPDGLAVVGVFLK
+                                                                                                                                  GTAAQQPDGLAVVGVFLK
+                                                                                                                                                                                                     TTPPLLESVTWIVLKEPISVSSQQMLK
+                                                                                                                                                                                                                IVLKEPISVSSQQMLK
+                                                                                                                                                                                                                   KEPISVSSQQMLK
+                                                                                                                                                                                                                                    NFNAEGEPELLMLANWRPAQPLK
